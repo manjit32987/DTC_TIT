@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143824509964",
+    "project_id": "dtc-admin-d95f3",
+    "storage_bucket": "dtc-admin-d95f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143824509964:android:a90e004b190389486f6229",
+        "android_client_info": {
+          "package_name": "com.mjt.dtcadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKoaSDnifDRPxOests0AEGs1u_J_LhYCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
